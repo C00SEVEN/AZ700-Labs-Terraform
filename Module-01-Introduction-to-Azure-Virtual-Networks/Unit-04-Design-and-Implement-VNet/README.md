@@ -1,5 +1,7 @@
 ## M01 - Unit 4: Design and Implement a Virtual Network in Azure
 
+## Exercise Scenario
+https://microsoftlearning.github.io/AZ-700-Designing-and-Implementing-Microsoft-Azure-Networking-Solutions/Instructions/Exercises/M01-Unit%204%20Design%20and%20implement%20a%20Virtual%20Network%20in%20Azure.html
 
 ## Architecture Overview
 - Hub VNet (Connectivity) 
