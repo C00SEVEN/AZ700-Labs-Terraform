@@ -5,7 +5,7 @@ This repository contains Terraform-based implementations for Microsoft Azure Net
 The goal of this project is to practice all the labs using Infrastructure as Code (Terraform).
 
 
-## Lab Reference
+## Labs Reference
 
 All lab exercises are based on the official Microsoft AZ-700 learning path:
 
