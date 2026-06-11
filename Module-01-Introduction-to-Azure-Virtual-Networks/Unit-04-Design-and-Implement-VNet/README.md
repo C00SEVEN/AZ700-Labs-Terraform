@@ -16,7 +16,7 @@
 ![Hub Topology](./images/vnet-hub-topology.png)
 
 ### Hub Subnets
-![Hub Subnets](./images/hub-subnets-inventory.png)
+![Hub Subnets](./images/hub-subnets.png)
 
 ### Manufacturing Spoke
 ![Manufacturing Subnets](./images/mfg-spoke-subnets.png)
