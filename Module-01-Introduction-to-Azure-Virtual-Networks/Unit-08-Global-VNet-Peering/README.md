@@ -27,9 +27,6 @@ The following validations were performed:
 ![vnet-Peering](./images/peering0.png)
 ![vnet-Peering1](./images/peering1.png)
 
-### Private DNS Vnetlink 
-![private-dns-vnetlink](./images/private-dns-vnetlink.png)
-
 ### Virtual Machines
 ![VMs](./images/vms.png)
 
