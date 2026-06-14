@@ -27,7 +27,7 @@ The following validations were performed:
 
 ### VWAN Deployed
 ![vwan0](./images/vwan0.png)
-![vwan1](./images/vpn1.png)
+![vwan1](./images/vwan1.png)
 
 
 ### Virtual Hub and VPN Gateway S2S deployed
