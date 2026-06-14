@@ -14,6 +14,10 @@ https://microsoftlearning.github.io/AZ-700-Designing-and-Implementing-Microsoft-
 - 2 Linux VMs for testing
 - Network Security Group (NSG) allowing SSH (port 22)
 
+## Connectivity Validation
+The following validations were performed:
+- Dns Resolution Test
+
 
 ## Screenshots 
 
