@@ -196,7 +196,7 @@ resource "azurerm_linux_virtual_machine" "vm2" {
   name                = "testvm2-database-02"
   location            = var.locations.hub
   resource_group_name = azurerm_resource_group.rg.name
-  size                = "Standard_D2s_v7"
+  size                = "Standard_B2s_v7"
 
   admin_username                  = "azureuser"
   admin_password                  = var.vm_admin_password
