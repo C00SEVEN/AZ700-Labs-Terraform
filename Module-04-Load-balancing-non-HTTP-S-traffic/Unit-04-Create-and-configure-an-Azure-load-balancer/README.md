@@ -30,7 +30,7 @@ The following validations were performed:
 ![vnets](./images/vnet0.png)
 
 ### Bastion
-![Bastion0](./images/bastion0.png)
+![Bastionn0](./images/bastion0.png)
 ![Bastion1](./images/bastion1.png)
 
 ### Load Balancer
