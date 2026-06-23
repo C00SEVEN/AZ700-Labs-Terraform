@@ -1,0 +1,18 @@
+# Terraform local files
+.terraform/
+*.tfstate
+*.tfstate.backup
+*.tfplan
+
+# Crash logs
+crash.log
+
+# Local variable files (optional secrets)
+terraform.tfvars
+
+# CLI config
+.terraformrc
+terraform.rc
+
+# OS files
+.DS_Store
